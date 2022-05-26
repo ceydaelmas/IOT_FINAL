@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice_Assistant</string>
+    <string name="already_have_account_signup">Already have account? <b>Sign Up</b></string>
+</resources>

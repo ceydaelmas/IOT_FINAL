@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095585926087",
+    "project_id": "voice-assistant-d256f",
+    "storage_bucket": "voice-assistant-d256f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095585926087:android:8345dc0a2460a8549ae7e2",
+        "android_client_info": {
+          "package_name": "com.example.voice_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095585926087-j4plofojhroq80re0g5da6v5lo2aj98l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voice_assistant",
+            "certificate_hash": "c53a16e60192d33186476e1b1d0233d910c18322"
+          }
+        },
+        {
+          "client_id": "1095585926087-s3alt1pubgi7oio453qto9h5ht6kbfqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiP2NB5mpi56ZN5EsbN7_9XL8lICUEyys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095585926087-s3alt1pubgi7oio453qto9h5ht6kbfqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
